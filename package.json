@@ -1,0 +1,25 @@
+{
+  "name": "awareness-color",
+  "version": "1.0.0",
+  "description": "A list of awareness colors and their causes",
+  "main": "gulpfile.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/tobiaswright/awareness-color.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/tobiaswright/awareness-color/issues"
+  },
+  "homepage": "https://github.com/tobiaswright/awareness-color",
+  "devDependencies": {
+    "gulp": "^3.8.11",
+    "gulp-jsonlint": "^1.0.2",
+    "gulp-util": "^3.0.3",
+    "gutil": "^1.6.1"
+  }
+}

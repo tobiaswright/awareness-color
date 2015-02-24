@@ -1,0 +1,72 @@
+0 info it worked if it ends with ok
+1 verbose cli [ '/Users/twright4/.nvm/v0.10.33/bin/node',
+1 verbose cli   '/Users/twright4/.nvm/v0.10.33/bin/npm',
+1 verbose cli   'install',
+1 verbose cli   '--save-dev',
+1 verbose cli   'gulp-uti' ]
+2 info using npm@1.4.28
+3 info using node@v0.10.33
+4 verbose readDependencies using package.json deps
+5 verbose cache add [ 'gulp-uti', null ]
+6 verbose cache add name=undefined spec="gulp-uti" args=["gulp-uti",null]
+7 verbose parsed url { protocol: null,
+7 verbose parsed url   slashes: null,
+7 verbose parsed url   auth: null,
+7 verbose parsed url   host: null,
+7 verbose parsed url   port: null,
+7 verbose parsed url   hostname: null,
+7 verbose parsed url   hash: null,
+7 verbose parsed url   search: null,
+7 verbose parsed url   query: null,
+7 verbose parsed url   pathname: 'gulp-uti',
+7 verbose parsed url   path: 'gulp-uti',
+7 verbose parsed url   href: 'gulp-uti' }
+8 silly lockFile 4dc23b3f-gulp-uti gulp-uti
+9 verbose lock gulp-uti /Users/twright4/.npm/4dc23b3f-gulp-uti.lock
+10 silly lockFile 4dc23b3f-gulp-uti gulp-uti
+11 silly lockFile 4dc23b3f-gulp-uti gulp-uti
+12 verbose addNamed [ 'gulp-uti', '' ]
+13 verbose addNamed [ null, '*' ]
+14 silly lockFile 9cdb6266-gulp-uti gulp-uti@
+15 verbose lock gulp-uti@ /Users/twright4/.npm/9cdb6266-gulp-uti.lock
+16 silly addNameRange { name: 'gulp-uti', range: '*', hasData: false }
+17 verbose request where is /gulp-uti
+18 verbose request registry https://condenast.registry.nodejitsu.com/
+19 verbose request id 4d65ab6bc199c055
+20 verbose url raw /gulp-uti
+21 verbose url resolving [ 'https://condenast.registry.nodejitsu.com/', './gulp-uti' ]
+22 verbose url resolved https://condenast.registry.nodejitsu.com/gulp-uti
+23 verbose request where is https://condenast.registry.nodejitsu.com/gulp-uti
+24 info trying registry request attempt 1 at 19:16:03
+25 http GET https://condenast.registry.nodejitsu.com/gulp-uti
+26 http 404 https://condenast.registry.nodejitsu.com/gulp-uti
+27 verbose headers { server: 'CouchDB/1.5.0 (Erlang OTP/R15B03)',
+27 verbose headers   date: 'Tue, 24 Feb 2015 00:16:04 GMT',
+27 verbose headers   'content-type': 'application/json',
+27 verbose headers   'content-length': '52',
+27 verbose headers   'cache-control': 'must-revalidate',
+27 verbose headers   connection: 'close' }
+28 silly registry.get cb [ 404,
+28 silly registry.get   { server: 'CouchDB/1.5.0 (Erlang OTP/R15B03)',
+28 silly registry.get     date: 'Tue, 24 Feb 2015 00:16:04 GMT',
+28 silly registry.get     'content-type': 'application/json',
+28 silly registry.get     'content-length': '52',
+28 silly registry.get     'cache-control': 'must-revalidate',
+28 silly registry.get     connection: 'close' } ]
+29 silly lockFile 9cdb6266-gulp-uti gulp-uti@
+30 silly lockFile 9cdb6266-gulp-uti gulp-uti@
+31 error 404 404 Not Found: gulp-uti
+31 error 404
+31 error 404 'gulp-uti' is not in the npm registry.
+31 error 404 You should bug the author to publish it
+31 error 404 It was specified as a dependency of 'awareness-color'
+31 error 404
+31 error 404 Note that you can also install from a
+31 error 404 tarball, folder, or http url, or git url.
+32 error System Darwin 13.4.0
+33 error command "/Users/twright4/.nvm/v0.10.33/bin/node" "/Users/twright4/.nvm/v0.10.33/bin/npm" "install" "--save-dev" "gulp-uti"
+34 error cwd /Users/twright4/Prl/awareness-color
+35 error node -v v0.10.33
+36 error npm -v 1.4.28
+37 error code E404
+38 verbose exit [ 1, true ]
