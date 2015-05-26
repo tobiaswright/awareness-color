@@ -17,8 +17,11 @@
   },
   "homepage": "https://github.com/tobiaswright/awareness-color",
   "devDependencies": {
+    "del": "^1.2.0",
     "gulp": "^3.8.11",
     "gulp-jsonlint": "^1.0.2",
+    "gulp-jsonminify": "^1.0.0",
+    "gulp-rename": "^1.2.2",
     "gulp-util": "^3.0.3",
     "gutil": "^1.6.1"
   }
