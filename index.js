@@ -1,11 +1,12 @@
 var fs = require('fs');
+var lo = require('lodash')
 var colors = require("./data.json");
 
 var fullList = "# Awareness color\n";
 fullList += "A list of awareness colors and their causes\n";
 fullList += "-----\n"
 
-colors = colors.collection;
+colors = lo._.sortBy(colors.collection, 'colorname');
 
 colors.map(function(data){
 	var colorlist;

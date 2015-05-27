@@ -23,6 +23,7 @@
     "gulp-jsonminify": "^1.0.0",
     "gulp-rename": "^1.2.2",
     "gulp-util": "^3.0.3",
-    "gutil": "^1.6.1"
+    "gutil": "^1.6.1",
+    "lodash": "^3.9.3"
   }
 }
