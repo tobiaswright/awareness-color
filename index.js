@@ -13,8 +13,10 @@ colors.map(function(data){
 	
 	colorlist = "###"+data.colorname+"\n";
 
-	data.causes.map( function( cause ) {
-		colorlist += "* "+cause.cause+"\n";
+	data.causes.map( function( causes ) {
+		var cause
+		cause = lo._.sortBy(causes, 'cause');
+		colorlist += "* "+cause+"\n";
 	});
 
 	fullList += colorlist+"\n";
