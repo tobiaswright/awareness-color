@@ -2,25 +2,38 @@ var fs = require('fs');
 var lo = require('lodash')
 var colors = require("./data.json");
 
-var fullList = "# Awareness color\n";
-fullList += "A list of awareness colors and their causes\n";
-fullList += "-----\n"
 
-colors = lo._.sortBy(colors.collection, 'colorname');
+var createMarkdown = function() {
+	var fullList = "# Awareness color\n";
 
-colors.map(function(data){
-	var colorlist;
-	
-	colorlist = "###"+data.colorname+"\n";
+	fullList += "A list of awareness colors and their causes\n";
+	colors = lo._.sortBy(colors.collection, 'colorname');
 
-	data.causes.map( function( causes ) {
-		var cause
-		cause = lo._.sortBy(causes, 'cause');
-		colorlist += "* "+cause+"\n";
+	colors.map(function(data){
+		var colorlist;
+		var cause = [];
+		
+		colorlist = "###"+data.colorname+"\n";
+
+		data.causes.map( function( causes ) {
+			cause.push(causes.cause);
+
+		});
+
+		cause = lo._.sortBy(cause);
+
+		cause.map( function( cause ) {
+			colorlist += "* "+cause+"\n";
+		});
+
+		fullList += colorlist+"\n";
+
 	});
 
-	fullList += colorlist+"\n";
+	console.log("Creating Markdown...")
 
-});
+	fs.writeFileSync("README.md", fullList);
 
-fs.writeFileSync("README.md", fullList);
+}
+
+createMarkdown();

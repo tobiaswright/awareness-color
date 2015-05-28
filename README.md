@@ -1,6 +1,5 @@
 # Awareness color
 A list of awareness colors and their causes
------
 ###Black
 * Accidents
 * Amish Support
@@ -8,65 +7,69 @@ A list of awareness colors and their causes
 * Gang Prevention
 * Gun Control
 * Melanoma
+* Mourning
 * Narcolepsy
 * POW/MIA (alt yellow)
 * Primary Biliary Cirrhosis
 * Sleep Apnea
 * Sleep Disorders
 * Students for Gun Control and Trauma
-* Mourning
 
 ###Black & Blue
 * Loss of a Brother
+* Loss of a male child
 * mourning a brother
 * mourning a son.
-* Loss of a male child
 
 ###Black & Pink
 * Loss of a Sister, Loss of a female child
-* mourning a sister
-* mourning a daughter.
 * Loss of a female child
+* mourning a daughter.
+* mourning a sister
 
 ###Black & Red
-* Murder Victims
 * Loss of a Fire fighter on Duty
+* Murder Victims
 * Murdered Children
 
 ###Black & White
 * Anti-Racism
+* Carcinoid Cancer
 * Diversity
 * Gifted Education
 * Transitions
 * Vaccine Awareness.
-* Carcinoid Cancer
 
 ###Blue
+* Acute Respiratory Distress Syndrome (ARDS)
 * Alopecia
 * Ankylosing Spondylitis
-* Acute Respiratory Distress Syndrome (ARDS)
 * Anti-Bullying
+* Arthritis
 * Brachial Plexus Injuries
 * Child Abuse
 * Children&#39;s Healthy Weight
+* Chronic Fatigue Syndrome
 * Colitis
 * Colon Cancer
+* Colorectal Cancer
 * Crime Victim&#39;s Rights
 * Crohn&#39;s Disease 
 * Cru du Chat Syndrome
 * Drowning Awareness
+* Drunk Driving
 * Dysautonomia
 * Dystonia
 * Education
 * Epstein-Barr Virus
 * Erb&#39;s Palsy
 * Familial Polyposis
-* Free Speech
 * Foster Care Awareness
+* Free Speech
 * Guillain Barre Syndrome
-* Hydrocephalus (US)
 * Huntington&#39;s Disease
 * Hurricanes
+* Hydrocephalus (US)
 * Hystiocytosis
 * Ichthyosis
 * Interstitial Cystitis
@@ -74,23 +77,19 @@ A list of awareness colors and their causes
 * Leukodystrophies
 * ME/CFIDS
 * Myositis
-* Prevent School Violence
 * Osteogenesis Imperfecta (IO)
+* Police Lost in Line of Duty
 * Pompe Disease
+* Prevent School Violence
 * Restless Legs Syndrome
+* Save the Music
 * Steven Johnson Syndrome
 * Teens against Smoking
+* Transverse Myelitis
 * Victim&#39;s Rights
 * Victims of Hurricane Katrina
-* Save the Music
-* Water accidents
 * Water Quality and Water Safety
-* Arthritis
-* Chronic Fatigue Syndrome
-* Colorectal Cancer
-* Drunk Driving
-* Police Lost in Line of Duty
-* Transverse Myelitis
+* Water accidents
 
 ###Blue & Purple
 * Pediatric Stroke
@@ -99,8 +98,8 @@ A list of awareness colors and their causes
 ###Blue & Red
 * Congenital Heart Defects and Disease
 * Hypo plastic left heart Syndrome
-* Olser Weber Rendu Syndrome (HHT)
 * Noonan&#39;s Syndrome
+* Olser Weber Rendu Syndrome (HHT)
 * Pulmonary Fibrosis
 * Rare Lung Diseases
 * SADS
@@ -118,30 +117,30 @@ A list of awareness colors and their causes
 * Tobacco Awareness
 
 ###Burgundy
-* Adhesions
 * AV Malformation
+* Adhesions
+* Antiphospholipid Antibody Syndrome
 * Brain Aneurysm
 * Cesarean Section
 * Cystic Hygroma
 * Disabled Adults
 * Factor V Leiden
 * Headaches
+* Hemangioma
 * Hereditary Hemochromatosis
 * Hospice Care
+* Hughes Syndrome
 * Lymphatic Malformation
 * Meningitis
 * Meningococcal Meningitis
+* Multiple Myeloma
 * PHACES
 * Post-Polio Syndrome
 * Sickle Cell Anemia
 * Sturge-Weber Syndrome
 * Thrombophilia
-* Williams Syndrome
-* Antiphospholipid Antibody Syndrome
-* Hemangioma
 * Vascular Malformation
-* Hughes Syndrome
-* Multiple Myeloma
+* Williams Syndrome
 
 ###Cream
 * Paralysis
@@ -151,21 +150,21 @@ A list of awareness colors and their causes
 
 ###Gold
 * Alveolar Rhabdomyosarcoma
-* Childhood Cancer
 * COPD
+* Childhood Cancer
 * Embryonal Rhabdomyosarcoma
-* Neuroblastoma
 * Osteosarcoma
+* undefined
 
 ###Green
 * BiPolar Disorder
+* Bone Marrow Donation
 * Bronchiolitis Obliterans (BOS)
 * Cerebral Palsy
 * Childhood Depression
 * Depression
-* The Environment
 * Eye Injury Prevention
-* Worker Safety
+* Fibrodysplasia Ossifican&#39;s Progressiva
 * Freedom
 * Glaucoma
 * Growth & rebuilding
@@ -178,34 +177,34 @@ A list of awareness colors and their causes
 * Mental Health
 * Mental Retardation
 * Missing Children
+* Mitochondrial Disease
 * Nephrotic Syndrome
 * Neural Tube Defects
+* Neurofibromatosis
 * Organ Donation
 * Organ Transplant
+* Pedestrian Safety
 * Primary Sclerosing Cholangitis
 * Safe Driving
-* Pedestrian Safety
 * Save Darfur
 * Spinal Cord Injury and research
 * Stem Cell donor and Research
+* The Environment
 * Tissue Donation
 * Tourette&#39;s Syndrome
 * Traumatic Brain Injury
 * Von Hippel Lindau Syndrome
-* Bone Marrow Donation
-* Fibrodysplasia Ossifican&#39;s Progressiva
-* Mitochondrial Disease
-* Neurofibromatosis
+* Worker Safety
 
 ###Grey
 * Allergies
 * Alpha-1 Antitrypsin Deficiency
 * Aphasia
 * Asthma
+* Borderline Personality Disorder
 * Brain Cancer
 * Brain Tumors
 * Diabetes
-* Borderline Personality Disorder
 
 ###Grey ribbon with Red heart
 * Juvenile Diabetes
@@ -215,30 +214,30 @@ A list of awareness colors and their causes
 * Caregiver Appreciation
 * Epilepsy (alt purple)
 * Foster Care
+* Gynecological Cancer
 * Hypokalemic Periodic Paralysis
 * Infantile Spasms
-* Gynecological Cancer
 * Rett Syndrome
 
 ###Light Blue
 * Addisons Disease
+* Behcets Disease
 * Chronic Illness
 * Cushing Syndrome
 * DiGeorge Sequence
 * Graves Disease
 * Hydrocephalus
+* Hyperaldosteronism
 * Klinefelter&#39;s Syndrome
 * Lymphedema
+* Men&#39;s Health
 * Pro Choice
 * Prostate Cancer
 * Scleroderma
 * Shprintzen Syndrome
+* Spay or Neuter Pets
 * Thyroid Disease
 * Trisomy 18 and Velo-Cardio Facial Syndrome
-* Behcets Disease
-* Hyperaldosteronism
-* Men&#39;s Health
-* Spay or Neuter Pets
 
 ###Light Green
 * Celiac Disease, Chronic pelvic Pain
@@ -255,54 +254,54 @@ A list of awareness colors and their causes
 * Sandhoff Disease
 
 ###Navy Blue
-* Alopecia
 * ARDS
+* Alopecia
+* Arthritis
 * Child Abuse
 * Chronic Fatigue Syndrome
 * Colitis
 * Colon Cancer
+* Colorectal Cancer
 * Crime Victim&#39;s Rights
 * Crohn&#39;s Disease
+* Death of Police Officer on Duty
 * Drowning
 * Education
+* Epstein-Barr Virus
 * Erb&#39;s Palsy
 * Free Speech
 * Guillain Barre Syndrome
+* Huntington&#39;s Disease
 * Hurricane Katrina
-* Death of Police Officer on Duty
+* Rectal Cancer
 * Restless Legs Syndrome
 * Teens against smoking
 * Victim&#39;s Rights
 * Water Quality & Water Safety.
-* Arthritis
-* Colorectal Cancer
-* Epstein-Barr Virus
-* Huntington&#39;s Disease
-* Rectal Cancer
 * Water accidents
 
 ###Orange
 * Agent Orange
 * Cultural Diversity
 * Hunger
+* Kidney Cancer (Renal Cell Carcinoma)
 * Leukemia
 * Lupus
 * Melanoma
-* Kidney Cancer (Renal Cell Carcinoma)
 * Motorcycle Safety
 * Multiple sclerosis (MS)
+* Prader-Willi Syndrome
+* Racial Tolerance
 * Reflex Sympathetic Dystrophy Syndrome
 * Self Injury
-* Racial Tolerance
-* Prader-Willi Syndrome
 
 ###Orchid & Orange
 * Eczema
 * Psoriasis
 
 ###Peach
-* Uterine Cancer
 * Endometrial Cancer
+* Uterine Cancer
 
 ###Pearl
 * Emphysema
@@ -313,59 +312,62 @@ A list of awareness colors and their causes
 
 ###Periwinkle
 * Acid Reflux
+* Anorexia Nervosa
 * Bulimia Nervosa
 * Eating Disorders
 * Eosinophilic Disorders
+* Esophageal Cancer
 * Gastric Cancer
 * Gastroesophageal Reflux Disease(GERD)
+* Irritable Bowel Syndrome(IBS)
 * Pulmonary Hypertension
 * Small Intestine Cancer
-* Anorexia Nervosa
-* Esophageal Cancer
-* Irritable Bowel Syndrome(IBS)
 * Stomach Cancer
 
 ###Pink
-* Breast Cancer
 * Birth Parents
+* Breast Cancer
 * Nursing Mothers
 
 ###Pink & Blue
 * Amniotic Fluid Embolism
 * Baby Safe Haven
 * Birth defects
-* Male Breast Cancer
-* Hyperemesis Graviduram
 * Hyperammonemia
+* Hyperemesis Graviduram
 * Infant Loss
 * Infertility
+* Male Breast Cancer
 * Miscarriage
 * Pregnancy Loss
 * Premature Birth
 * Stillbirth
 * Sudden Infant Death Syndrome (SIDS)
 * Turners Syndrome
-* chILD (Pediatric bronchiolitis obliterans).
 * Twin to Twin transfusion syndrome
+* chILD (Pediatric bronchiolitis obliterans).
 
 ###Pink, Purple & Teal
 * Thyroid Cancer Ribbon
 
 ###Purple
-* Attention deficit disorder (ADD)
-* Attention deficit hyperactivity disorder (ADHD)
+* Alzheimer&#39;s
 * Animal Abuse
 * Anit-Violence
 * Arnold Chiari Malformation
+* Attention deficit disorder (ADD)
+* Attention deficit hyperactivity disorder (ADHD)
 * Chronic Pain
 * Colitis
 * Crohn&#39;s Disease
 * Cystic Fibrosis
 * Domestic Violence
 * Epilepsy
+* Fibromyalgia
 * Fibromyalgia in Men
 * Harmony
 * Homelessness
+* Leimyosarcoma
 * Lupus
 * Macular Degeneration
 * Mucolididoses
@@ -377,9 +379,6 @@ A list of awareness colors and their causes
 * Sarcoidosis
 * Sjorgren&#39;s Syndrome
 * Thyroid Cancer
-* Alzheimer&#39;s
-* Fibromyalgia
-* Leimyosarcoma
 * Victims of 9/11
 
 ###Purple & Yellow
@@ -388,8 +387,8 @@ A list of awareness colors and their causes
 * the relationship between Lupus and Endometriosis.
 
 ###Puzzle
-* Autism
 * Asperger Syndrome
+* Autism
 
 ###Rainbow
 * Adrenocortical carcinoma
@@ -402,12 +401,15 @@ A list of awareness colors and their causes
 * Bronchiolitis Obliterans (BOS)
 * Burn Victims
 * Cardiovascular Disease
+* Congenital Heart Defects
 * Congenital Heart Disease
 * Congestive Heart Failure
 * Courage and Inspiration
 * DARE
+* Diamond Blackfan Anemia
 * Driving under the Influence
 * Epidermolysis Bellosa
+* Evans Syndrome
 * Factor XI Deficiency
 * Heart Disease
 * Hemophilia
@@ -416,7 +418,7 @@ A list of awareness colors and their causes
 * Hypertension
 * Inhalant Abuse
 * Long Q-T Syndrome
-* Wolf-Parkinson-White
+* Lymphoma
 * MADD
 * Marfan Syndrome
 * Project Red Flag
@@ -424,31 +426,29 @@ A list of awareness colors and their causes
 * Sniffing Abuse
 * Stroke
 * Substance Abuse
+* Supraventricular Tachycardia
 * Thrombotic Thrombocytopenic Purpura
+* Tuberculosis
 * Von Willebrand&#39;s Disease
 * Wegener&#39;s Granulomatosis
-* Congenital Heart Defects
-* Diamond Blackfan Anemia
-* Evans Syndrome
-* Lymphoma
-* Supraventricular Tachycardia
-* Tuberculosis
+* Wolf-Parkinson-White
 
 ###Red & White
 * Aplastic Anemia
+* DVT
 * Head and Neck Cancer
 * Hereditary Hemorrhagic Telangiectasia
 * Oral Cancer
-* DVT
 * Squamous Cell Carcinoma
 
 ###Red & Yellow
-* Hepatitis C
 * HIV/HCV Co-Infection
+* Hepatitis C
 * Surviving family members of Suicide victims
 
 ###Silver
 * Brain Disabilities
+* Brain Disorders
 * Campaign for the Brain
 * Charcot-Marie-Tooth (CMT)
 * Disabled Children
@@ -460,7 +460,6 @@ A list of awareness colors and their causes
 * Schizophrenia
 * Sciatic Pain
 * VACTERL
-* Brain Disorders
 * Young Onset Parkinson&#39;s Association (YOPA)
 
 ###Teal
@@ -469,16 +468,18 @@ A list of awareness colors and their causes
 * Batten Disease
 * Cervical Cancer
 * Chari Malformation
+* Dissociative Identity Disorder
 * Ectodermal Dysphasia
 * Food Allergies
 * Fragile X Syndrome
 * Marker X Syndrome
 * Martin-Bell Syndrome
 * Myasthenia Gravis
+* Obsessive-Compulsive Disorder
 * Ovarian Cancer
 * Panic Disorder
-* Polycystic Kidney Disease (PKD)
 * Polycycstic Ovarian Syndrome
+* Polycystic Kidney Disease (PKD)
 * Post Traumatic Stress Disorder (PTSD)
 * Progressive Supanuclear Palsy
 * Rape
@@ -486,8 +487,6 @@ A list of awareness colors and their causes
 * Substance Abuse
 * Trigeminal Neuralgia (TN)
 * Tsunami Victims
-* Dissociative Identity Disorder
-* Obsessive-Compulsive Disorder
 * Uterine Cancer
 
 ###Teal & Purple
@@ -498,8 +497,8 @@ A list of awareness colors and their causes
 * Cervical Cancer
 
 ###USA Flag
-* National Support
 * Fireworks Safety
+* National Support
 * World Trade Center Victims & Heroes
 
 ###Violet
@@ -509,21 +508,25 @@ A list of awareness colors and their causes
 ###White
 * Adoptee
 * Adoption
+* Anti-Child Pornography
 * Anti-Pornography
 * Anti-War
 * Blindness
 * Bone Cancer
-* Child exploitation
+* Bone Disease
 * Child Sexual Abuse/Assault
+* Child exploitation
 * Community Support
 * Congenital Cataracts
 * Elderly Affairs
 * Hernia
 * Holocaust Remembrance
+* Hope & Support
 * Innocence
-* Multiple Hereditary Exostoses
 * Molestation Survivor
+* Multiple Hereditary Exostoses
 * On-line Sexual Predator Awareness & Internet Safety
+* Osteoporosis
 * Peace
 * Postpartum Depression
 * Retinoblastoma
@@ -534,23 +537,21 @@ A list of awareness colors and their causes
 * Stalking
 * Student Sexual Abuse
 * Teen Pregnancy Prevention
-* Anti-Child Pornography
-* Bone Disease
-* Osteoporosis
 * Victims of Terrorism
-* Hope & Support
 
 ###White with Navy Pin Stripe
 * Lou Gehrig Disease
 
 ###Yellow
 * Adenosarcoma
+* Adoptive Parents
 * Amber Alert
 * Bladder Cancer
 * Canadian Cancer Society
 * Carbon Monoxide Poisoning
 * Complementary / Alternative Medicine
 * Endometriosis
+* Equality
 * Ewings Sarcoma
 * Gulf War
 * Hydrocephalus (Int&#39;l)
@@ -558,14 +559,12 @@ A list of awareness colors and their causes
 * Liver Disease
 * Missing Children
 * Myxoid Liposarcoma
-* Osteosarcoma
 * Obesity
+* Osteosarcoma
 * POW/MIA
 * Remembrance
 * Sarcoma
 * Spina Bifida
-* Adoptive Parents
-* Equality
 * Suicide Awareness
 * Troop or Military Support
 
