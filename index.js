@@ -1,5 +1,6 @@
 var fs = require('fs');
-var lo = require('lodash')
+var lo = require('lodash');
+var minify = require("node-json-minify");
 var colors = require("./data.json");
 
 
@@ -7,9 +8,9 @@ var createMarkdown = function() {
 	var fullList = "# Awareness color\n";
 
 	fullList += "A list of awareness colors and their causes\n";
-	colors = lo._.sortBy(colors.collection, 'colorname');
+	colorsl = lo._.sortBy(colors.collection, 'colorname');
 
-	colors.map(function(data){
+	colorsl.map(function(data){
 		var colorlist;
 		var cause = [];
 		
@@ -36,4 +37,16 @@ var createMarkdown = function() {
 
 }
 
+var minifyFile = function() {
+
+	var m = minify(JSON.stringify(colors));
+
+	m = JSON.parse(m)
+
+	fs.writeFileSync("build/build.min.json", m);
+	console.log("Creating Minified json...");
+
+}
+
 createMarkdown();
+minifyFile();
